@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "Demo realizado en el CodeLab",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoAndresito/Demo-RestFul-con-NodeJS.git"
+  },
+  "author": "Ing. Andres Vasquez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarcoAndresito/Demo-RestFul-con-NodeJS/issues"
+  },
+  "homepage": "https://github.com/MarcoAndresito/Demo-RestFul-con-NodeJS#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
